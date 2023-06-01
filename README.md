@@ -2,7 +2,6 @@
 - 👀 I'am interested in programming and design
 - 🌱 I’m currently learning about web programming
 - 💞️ I’m looking to collaborate on so that I can add to my understanding of new things about the world of web programming
-- 📫 you can contact me uyaisaul02@gmail.com
 
 
 <!---
