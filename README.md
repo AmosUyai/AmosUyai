@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @AmosUyai
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I'am interested in programming and design
+- 🌱 I’m currently learning about web programming
+- 💞️ I’m looking to collaborate on so that I can add to my understanding of new things about the world of web programming
+- 📫 you can contact me uyaisaul@gmail.com
+
 
 <!---
 AmosUyai/AmosUyai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
